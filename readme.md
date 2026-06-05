@@ -140,7 +140,7 @@ For questions regarding any policy, document, or Furractions service, please con
 
 Unless otherwise stated, all documents within this repository are © Furractions. All rights reserved.
 
-These documents may not be copied, redistributed, modified, or republished without permission from Furractions.
+These documents may be copied, redistributed, modified, or republished with permission from Furractions or through the GPL 3.0 License stated in LICENSE
 
 ---
 
